@@ -1,0 +1,5 @@
+https://github.com/AdarshKandwal/HorsesVsHumanCNN/blob/master/classification.ipynb
+
+https://github.com/vfcarida/live_convolutional_neural_network-CNN-_08072020/blob/master/cnn.ipynb
+
+https://www.youtube.com/watch?v=yN9L9mnPyBA
